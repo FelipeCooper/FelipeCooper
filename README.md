@@ -1,6 +1,15 @@
 ### Hi there 👋
 
+My name is Felipe Cooper and I'm a backend developer.  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCooper&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCooper&layout=compact&theme=gotham&custom_title=Statistics)  
+![ViewCount](https://komarev.com/ghpvc/?username=FelipeCooper&color=1A4730)
+
 <!--
+#### Languages and tools:
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+
 **FelipeCooper/FelipeCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
